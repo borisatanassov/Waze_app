@@ -1,0 +1,40 @@
+
+body {margin:0; background-color: #000;}
+
+.icon-bar {
+  width: 100%;
+  background-color: #0c2844;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 25%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #071c32;
+}
+
+.active {
+  background-color:orange;
+}
+
+h1 {
+  color: white;
+  font-size: 65px;
+  text-align: center;
+  font-family: 'AddCityboy', sans-serif;
+}
+
+p.page-name {
+    color: white;
+    font-size: 45px;
+    text-indent: 50px;
+    font-family: 'AddCityboy', sans-serif;
+}

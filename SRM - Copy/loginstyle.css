@@ -1,0 +1,14 @@
+body {margin:0; background-color: #000; line-height: 20px;}
+ h1{
+    text-align: center;
+    font-size: 150px;
+    color: white;
+    font-family: 'AddCityboy', sans-serif;
+    vertical-align: text-top;
+ }  
+    p{
+        font-size: 50px;
+        color: white;
+        font-family: 'AddCityboy', sans-serif;
+        text-align-last: center;
+    }
